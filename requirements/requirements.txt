@@ -210,7 +210,7 @@ packaging==21.3
     # via -r requirements.in
 parsimonious==0.8.1
     # via eth-abi
-protobuf==3.11.3
+protobuf==3.15.0
     # via web3
 psutil==5.8.0
     # via
@@ -314,9 +314,9 @@ wrapt==1.12.1
     # via dbapi-opentracing
 yarl==1.6.3
     # via aiohttp
-zope.event==4.4
+zope-event==4.4
     # via gevent
-zope.interface==5.1.0
+zope-interface==5.1.0
     # via gevent
 
 # The following packages are considered to be unsafe in a requirements file:
